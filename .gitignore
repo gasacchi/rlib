@@ -10,3 +10,4 @@ wasm-pack.log
 /lib/
 .bsb.lock
 .merlin
+*.bs.js
