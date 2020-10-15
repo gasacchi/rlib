@@ -1,9 +1,10 @@
-/target
+src/rlib-rust/target
+
 **/*.rs.bk
-Cargo.lock
-bin/
-pkg/
-wasm-pack.log
+src/rlib-rust/Cargo.lock
+src/rlib-rust/bin/
+src/rlib-rust/pkg/
+src/rlib-rust/wasm-pack.log
 
 .DS_Store
 /node_modules/

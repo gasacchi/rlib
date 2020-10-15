@@ -1,10 +1,9 @@
 [package]
 name = "rlib"
 version = "0.1.0"
-authors = ["Gasacchi <6asacchi@gmail.com"]
-description = "rescript standard library with rust and webassembly"
-licese = "MIT"
-repository = "https://github.com/gasacchi/rlib"
+authors = ["Gasacchi <6asacchi@gmail.com>"]
+description = "Rescript standard library with rust and webassembly"
+repository= "https://github.com/gasacchi/rlib"
 edition = "2018"
 
 [lib]
